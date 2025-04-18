@@ -1,0 +1,11 @@
+# Dev environment
+pip
+autopep8
+
+# App
+flask
+
+# Google Apis
+google-api-python-client
+google-auth
+google-auth-oauthlib
